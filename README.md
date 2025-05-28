@@ -74,6 +74,7 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 📌 [JavaScript projects - Client-Side Programming](https://github.com/NanniCandido/client-side-programming)  
 📌 [Inventory Management Use Case](https://github.com/NanniCandido/inventory-management_use-case)  
 📌 [NS Clothing & Fitness App Cases](https://github.com/NanniCandido/business-analysis-essentials)  
+📌 [NSCC Accessibility Plan](https://github.com/NanniCandido/nscc-accessibility-plan)
 
 ---
 
@@ -81,7 +82,9 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 
 - ✉️ Email: nannicandido@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elaine-da-silva-candido/)  
-- 🌐 Learning journey: [Google Data Analytics](https://1drv.ms/b/c/e9a87bde7f50edd9/EUfiMCsqThVOkdLYAK1zNGUBgZNhX_5eHwLCOqRj6cDa6g?e=wZmeqJ) | [DataEX](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOn8PgAAAAABBt6fEhZXa9R6vfeIXEBIsw?e=scyxMY) | [Azure Academy - BIG DATA](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOl_UAAAAAABw8TVjMQeRYkPl9CuhBhHcg?e=JOFwpA) | [Azure Academy - ADF](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOmBUgAAAAABAr8es3gJ8aJETLbpAnLA9w?e=6lOyWn)  | [Python for Data Analysis](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOlirQAAAAABolYm0kaDyMgbAhjqi70OIg?e=t8pPJY)  | [Cybersecurity Awareness Social Engineering](https://1drv.ms/b/c/e9a87bde7f50edd9/EbdzAso3UddCs9Xc1uHfcU4BYCTmFuNUrlfXD4Cwa2KTGw?e=A7Abvc) | [Business Process Modeling](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOl5lQAAAAABq3sBVjM4aZhJ78OcJ0rXbA?e=JmdeYJ) | [Balanced Scorecard and KPIs](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOlglAAAAAABXoulcskvK2Pg8sxQ0Fz-6g?e=XeGu6Z) | [Writing User Stories](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOm1jgAAAAABu9ERhOA5XPSN3vdvc31hDA?e=iZETrg)  | [AWS Cloud Foundation](https://1drv.ms/b/c/e9a87bde7f50edd9/EcnXnY9jmrNDnxLGwFpC_O8B5WTqggn9K_x_plybvXptdg?e=8tXW29) 
+- 🌐 Learning journey: [Google Data Analytics](https://1drv.ms/b/c/e9a87bde7f50edd9/EUfiMCsqThVOkdLYAK1zNGUBgZNhX_5eHwLCOqRj6cDa6g?e=wZmeqJ) | [DataEX](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOn8PgAAAAABBt6fEhZXa9R6vfeIXEBIsw?e=scyxMY) | [Azure Academy - BIG DATA](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOl_UAAAAAABw8TVjMQeRYkPl9CuhBhHcg?e=JOFwpA) | [Azure Academy - ADF](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOmBUgAAAAABAr8es3gJ8aJETLbpAnLA9w?e=6lOyWn)  | [Python for Data Analysis](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOlirQAAAAABolYm0kaDyMgbAhjqi70OIg?e=t8pPJY) | [Cybersecurity Awareness Social Engineering](https://1drv.ms/b/c/e9a87bde7f50edd9/EbdzAso3UddCs9Xc1uHfcU4BYCTmFuNUrlfXD4Cwa2KTGw?e=A7Abvc) | [Business Process Modeling](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOl5lQAAAAABq3sBVjM4aZhJ78OcJ0rXbA?e=JmdeYJ) | [Balanced Scorecard and KPIs](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOlglAAAAAABXoulcskvK2Pg8sxQ0Fz-6g?e=XeGu6Z) | [Writing User Stories](https://1drv.ms/b/c/e9a87bde7f50edd9/EdntUH_ee6gggOm1jgAAAAABu9ERhOA5XPSN3vdvc31hDA?e=iZETrg) | [AWS Cloud Foundation](https://1drv.ms/b/c/e9a87bde7f50edd9/EcnXnY9jmrNDnxLGwFpC_O8B5WTqggn9K_x_plybvXptdg?e=8tXW29)
+
+
 
 
 
