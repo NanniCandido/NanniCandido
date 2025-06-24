@@ -52,7 +52,7 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 - **Visualization**: Power BI, Tableau, Excel  
 - **Automation & APIs**: Win32 (Excel), pandas, openpyxl  
 - **Collaboration**: GitHub, SharePoint, MS Teams
-- **Data/Process Modeling**: Bizagi, BPM, Visio, DFD, Process Flow
+- **Data/Process Modelling**: Bizagi, BPM, Visio, DFD, Process Flow
 
 ---
 
@@ -66,15 +66,18 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 
 ### 📁 Featured Projects
 
+📌 [Business Process Automation with Oracle APEX + Oracle Workflow Engine + Oracle Database](https://github.com/NanniCandido/business-process-automation)  
+📌 [Enterprise Risk Management (ERM) Implementation](https://github.com/NanniCandido/risk-management-methodology)  
+📌 [IT Governance and Service Management Automation](https://github.com/NanniCandido/it-governance-initiatives)  
 📌 [PCC Data Preprocessing (Internship)](https://github.com/NanniCandido/internship-healthcare-data-project)  
-📌 [Stock Price Forecast – Power BI + R](https://github.com/NanniCandido/applied_data_analytics)  
-📌 [Glassdoor Data Science Jobs Analysis](https://github.com/NanniCandido/glassdoor-data-science-jobs)  
-📌 [COVID-19 Data Automation & Reporting](https://github.com/NanniCandido/business-data-modeling)  
-📌 [Socioeconomic Factors and Obesity: A US Nation/State-Level Analysis](https://github.com/NanniCandido/data_movement_and_integration)  
-📌 [JavaScript projects - Client-Side Programming](https://github.com/NanniCandido/client-side-programming)  
-📌 [Inventory Management Use Case](https://github.com/NanniCandido/inventory-management_use-case)  
-📌 [NS Clothing & Fitness App Cases](https://github.com/NanniCandido/business-analysis-essentials)  
-📌 [NSCC Accessibility Plan](https://github.com/NanniCandido/nscc-accessibility-plan)
+📌 [NSCC Accessibility Plan Evaluation (Research Project)](https://github.com/NanniCandido/nscc-accessibility-plan)  
+📌 [Stock Price Forecast – Power BI + R (Academic project)](https://github.com/NanniCandido/applied_data_analytics)  
+📌 [Glassdoor Data Science Jobs Analysis (Academic project)](https://github.com/NanniCandido/glassdoor-data-science-jobs)  
+📌 [COVID-19 Data Automation & Reporting (Academic project)](https://github.com/NanniCandido/business-data-modeling)  
+📌 [Socioeconomic Factors and Obesity: A US Nation/State-Level Analysis (Academic project)](https://github.com/NanniCandido/data_movement_and_integration)  
+📌 [JavaScript projects - Client-Side Programming (Academic project)](https://github.com/NanniCandido/client-side-programming)  
+📌 [Inventory Management Use Case (Academic project)](https://github.com/NanniCandido/inventory-management_use-case)  
+📌 [NS Clothing & Fitness App Cases (Academic project)](https://github.com/NanniCandido/business-analysis-essentials)  
 
 ---
 
