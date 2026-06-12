@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Elaine! | Olá, eu sou a Elaine! | Bonjour, je suis Elaine ! 
 
-🎯 **Data Analyst | Python • R • SQL • Azure • Power BI • Tableau**  
+🎯 **Business Process Analyst | Python • R • SQL • Azure • Power BI • Tableau**  
 📍 Halifax, NS | Newcomer to Canada | Passionate about Data for Impact  
 
 ---
