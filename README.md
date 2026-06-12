@@ -50,8 +50,8 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 - **Data Engineering**: Azure Data Factory, Alteryx, Databricks, Delta Lake, Medallion Architecture
 - **Cloud Foundation**: MS Azure Cloud, AWS Cloud 
 - **Visualization**: Power BI, Tableau, Excel  
-- **Automation & APIs**: Win32 (Excel), pandas, openpyxl  
-- **Collaboration**: GitHub, SharePoint, MS Teams
+- **Automation & APIs**: Power Automate, Win32 (Excel), pandas, openpyxl  
+- **Collaboration**: GitHub, SharePoint, MS Teams, Microsoft 365
 - **Data/Process Modelling**: Bizagi, BPM, Visio, DFD, Process Flow
 
 ---
