@@ -66,6 +66,7 @@ J’accorde également de l’importance à la **standardisation**, à la **gouv
 
 ### 📁 Featured Projects
 
+📌 [Power Platform Business Process Automation Framework with Power Automate + SharePoint + Microsoft Teams](https://github.com/NanniCandido/power-platform-framework)  
 📌 [Business Process Automation with Oracle APEX + Oracle Workflow Engine + Oracle Database](https://github.com/NanniCandido/business-process-automation)  
 📌 [Enterprise Risk Management (ERM) Implementation](https://github.com/NanniCandido/risk-management-methodology)  
 📌 [IT Governance and Service Management Automation](https://github.com/NanniCandido/it-governance-initiatives)  
